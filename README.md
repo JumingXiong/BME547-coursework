@@ -1,1 +1,4 @@
-# BME547-coursework
+# Patient Health Database
+
+Author: Juming Xiong
+
